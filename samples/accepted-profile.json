@@ -1,0 +1,13 @@
+{
+  "DisabilityIndicator": "0",
+  "HospiceIndicator": "0",
+  "InstitutionalIndicator": "0",
+  "EsrdIndicator": "0",
+  "EntitlementTypeCode": "Y",
+  "WorkingAgedIndicator": "0",
+  "OutOfAreaFlag": "N",
+  "PartCPremium": "    0.00",
+  "PartDPremium": "   25.00",
+  "CumulativeUncoveredMonths": "000",
+  "CreditableCoverageFlag": "Y"
+}
